@@ -1,5 +1,8 @@
 # MLOps – Course
 
+Here is the link of the HuggingFace repos with the trained model pushed : https://huggingface.co/Azese/distilbert-imdb-sentiment-analysis
+
+
 This repository contains the slides, labs, and project scaffold for a  MLOps training:
 
 ## Structure
