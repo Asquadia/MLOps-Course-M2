@@ -2,6 +2,8 @@
 
 Here is the link of the HuggingFace repos with the trained model pushed : https://huggingface.co/Azese/distilbert-imdb-sentiment-analysis
 
+Here is the link as proof of executing the end to end MLProject on google colab, as on my computer i have sever issues and limitation : https://colab.research.google.com/drive/1aGrkLiKKccT1QHWBeuiW95lsCheXDQ5S?usp=sharing
+
 
 This repository contains the slides, labs, and project scaffold for a  MLOps training:
 
